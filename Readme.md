@@ -1,3 +1,3 @@
 # mynew.repo
 
-some description
+some description!
